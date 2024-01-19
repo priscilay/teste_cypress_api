@@ -1,0 +1,14 @@
+{
+  "name": "teste_cypress_api",
+  "version": "1.0.0",
+  "description": "Testes de API com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Priscila Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.3"
+  }
+}
