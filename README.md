@@ -1,7 +1,7 @@
 # Projeto de Automação de Testes com Cypress na API (https://api.trello.com/) <br>
 
 <br>
-Este projeto contém casos de teste de Crypresspara testar a funcionalidade da API (https://api.trello.com/)). <br>
+Este projeto contém casos de teste de Crypress para testar a funcionalidade da API (https://api.trello.com/)). <br>
 <br>
 
 
